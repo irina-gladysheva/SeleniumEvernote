@@ -1,0 +1,2 @@
+# SeleniumEvernote
+Selenium auto-tests
